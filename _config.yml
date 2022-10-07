@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Nicolas Boulle"
+title                    : "Nicolas Boullé"
 title_separator          : "-"
-name                     : &name "Nicolas Boulle"
+name                     : &name "Nicolas Boullé"
 description              : &description "Research Fellow at the University of Cambridge"
 url                      : https://nboulle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas Boulle"
+  name             : "Nicolas Boullé"
   avatar           : "profile.jpg"
   bio              : "Research Fellow at the University of Cambridge"
   location         :
