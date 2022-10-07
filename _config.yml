@@ -83,11 +83,11 @@ author:
   name             : "Nicolas Boulle"
   avatar           : "profile.png"
   bio              : "Research Fellow at the University of Cambridge"
-  location         : "Cambridge, UK"
+  location         : ""
   employer         : "University of Cambridge"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=EWw0oakAAAAJ"
-  email            :
+  email            : "nb690@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
