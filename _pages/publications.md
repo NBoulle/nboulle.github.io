@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<>{% for post in site.publications reversed %}
+<>  {% include archive-single.html %}
+<>{% endfor %}
+
+N. Boullé, V. Dallas, Y. Nakatsukasa, and D. Samaddar, Classification of chaotic time series with deep learning, Physica D 403 (2020), 132261.
