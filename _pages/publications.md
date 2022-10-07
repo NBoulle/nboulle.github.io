@@ -18,19 +18,19 @@ author_profile: true
 --->
 
 <ol reversed>
-<li><p>N. Boullé, I. Newell, P. E. Farrell, and P. G. Kevrekidis, Two-Component 3D Atomic Bose-Einstein Condensates Support Complex Stable Patterns, submitted, 2022. <a href="https://arxiv.org/abs/2208.05703">arxiv</a>
-<li><p>N. Boullé, S. Kim, T. Shi, and A. Townsend, Learning Green's functions associated with time-dependent partial differential equations, J. Mach. Learn. Res. 23(218) (2022), 1-34. <a href="https://arxiv.org/abs/2204.12789">arxiv</a>
-<li><p>N. Boullé, P. E. Farrell, and M. E. Rognes, Optimal control of Hopf bifurcations, submitted, 2022. <a href="https://arxiv.org/abs/2201.11684">arxiv</a>
-<li><p>N. Boullé, P. E. Farrell, and A. Paganini, Control of bifurcation structures using shape optimization, SIAM J. Sci. Comput. 44(1) (2022), A57-A76. <a href="https://arxiv.org/abs/2105.14884">arxiv</a>
-<li><p>N. Boullé and A. Townsend, A generalization of the randomized singular value decomposition, ICLR (2022). <a href="https://arxiv.org/abs/2105.13052">arxiv</a>
-<li><p>N. Boullé, C. J. Earls, and A. Townsend, Data-driven discovery of Green's functions with human-understandable deep learning, Sci. Rep. 12 (2022), 4824. <a href="https://arxiv.org/abs/2105.00266">arxiv</a>
-<li><p>N. Boullé, J. Słomka, and A. Townsend, An optimal complexity spectral method for Navier-Stokes simulations in the ball, submitted, 2021. <a href="https://arxiv.org/abs/2103.16638">arxiv</a>
-<li><p>N. Boullé, V. Dallas, and P. E. Farrell, Bifurcation analysis of two-dimensional Rayleigh-Bénard convection using deflation, Phys. Rev. E 105(5) (2022), 055106. <a href="https://arxiv.org/abs/2102.10576">arxiv</a>
+<li><p>N. Boullé, I. Newell, P. E. Farrell, and P. G. Kevrekidis, Two-Component 3D Atomic Bose-Einstein Condensates Support Complex Stable Patterns, submitted, 2022. <a href="https://arxiv.org/abs/2208.05703">arxiv</a></li>
+<li><p>N. Boullé, S. Kim, T. Shi, and A. Townsend, Learning Green's functions associated with time-dependent partial differential equations, J. Mach. Learn. Res. 23(218) (2022), 1-34. <a href="https://arxiv.org/abs/2204.12789">arxiv</a></li>
+<li><p>N. Boullé, P. E. Farrell, and M. E. Rognes, Optimal control of Hopf bifurcations, submitted, 2022. <a href="https://arxiv.org/abs/2201.11684">arxiv</a></li>
+<li><p>N. Boullé, P. E. Farrell, and A. Paganini, Control of bifurcation structures using shape optimization, SIAM J. Sci. Comput. 44(1) (2022), A57-A76. <a href="https://arxiv.org/abs/2105.14884">arxiv</a></li>
+<li><p>N. Boullé and A. Townsend, A generalization of the randomized singular value decomposition, ICLR (2022). <a href="https://arxiv.org/abs/2105.13052">arxiv</a></li>
+<li><p>N. Boullé, C. J. Earls, and A. Townsend, Data-driven discovery of Green's functions with human-understandable deep learning, Sci. Rep. 12 (2022), 4824. <a href="https://arxiv.org/abs/2105.00266">arxiv</a></li>
+<li><p>N. Boullé, J. Słomka, and A. Townsend, An optimal complexity spectral method for Navier-Stokes simulations in the ball, submitted, 2021. <a href="https://arxiv.org/abs/2103.16638">arxiv</a></li>
+<li><p>N. Boullé, V. Dallas, and P. E. Farrell, Bifurcation analysis of two-dimensional Rayleigh-Bénard convection using deflation, Phys. Rev. E 105(5) (2022), 055106. <a href="https://arxiv.org/abs/2102.10576">arxiv</a></li>
 <li><p>A. J. Ellingsrud, N. Boullé, P. E. Farrell, and M. E. Rognes, Accurate numerical simulation of electrodiffusion and osmotic water movement in brain tissue, Math. Med. Biol. 38(4) (2021), 516-551. <a href="https://arxiv.org/abs/2102.02539">arxiv</a>
-<li><p>N. Boullé and A. Townsend, Learning elliptic partial differential equations with randomized linear algebra, Found. Comput. Math. (2022). <a href="https://arxiv.org/abs/2102.00491">arxiv</a>
-<li><p>N. Boullé, E. G. Charalampidis, P. E. Farrell, and P. G. Kevrekidis, Deflation-based identification of nonlinear excitations of the three-dimensional Gross-Pitaevskii equation, Phys. Rev. A 102(5) (2020), 053307. <a href="https://arxiv.org/abs/2004.10446">arxiv</a>
-<li><p>N. Boullé, Y. Nakatsukasa, and A. Townsend, Rational neural networks, NeurIPS 33 (2020). <a href="https://arxiv.org/abs/2004.01902">arxiv</a>
-<li><p>E. G. Charalampidis, N. Boullé, P. E. Farrell, and P. G. Kevrekidis, Bifurcation analysis of stationary solutions of two-dimensional coupled Gross-Pitaevskii equations using deflated continuation, Commun. Nonlinear Sci. Numer. Simulat. 87 (2020), 105255. <a href="https://arxiv.org/abs/1912.00023">arxiv</a>
-<li><p>N. Boullé and A. Townsend, Computing with functions in the ball, SIAM J. Sci. Comput. 42(4) (2020), C169-C191. <a href="https://arxiv.org/abs/1911.00114">arxiv</a>
-<li><p>N. Boullé, V. Dallas, Y. Nakatsukasa, and D. Samaddar, Classification of chaotic time series with deep learning, Physica D 403 (2020), 132261. <a href="https://arxiv.org/abs/1908.06848">arxiv</a>
+<li><p>N. Boullé and A. Townsend, Learning elliptic partial differential equations with randomized linear algebra, Found. Comput. Math. (2022). <a href="https://arxiv.org/abs/2102.00491">arxiv</a></li>
+<li><p>N. Boullé, E. G. Charalampidis, P. E. Farrell, and P. G. Kevrekidis, Deflation-based identification of nonlinear excitations of the three-dimensional Gross-Pitaevskii equation, Phys. Rev. A 102(5) (2020), 053307. <a href="https://arxiv.org/abs/2004.10446">arxiv</a></li>
+<li><p>N. Boullé, Y. Nakatsukasa, and A. Townsend, Rational neural networks, NeurIPS 33 (2020). <a href="https://arxiv.org/abs/2004.01902">arxiv</a></li>
+<li><p>E. G. Charalampidis, N. Boullé, P. E. Farrell, and P. G. Kevrekidis, Bifurcation analysis of stationary solutions of two-dimensional coupled Gross-Pitaevskii equations using deflated continuation, Commun. Nonlinear Sci. Numer. Simulat. 87 (2020), 105255. <a href="https://arxiv.org/abs/1912.00023">arxiv</a></li>
+<li><p>N. Boullé and A. Townsend, Computing with functions in the ball, SIAM J. Sci. Comput. 42(4) (2020), C169-C191. <a href="https://arxiv.org/abs/1911.00114">arxiv</a></li>
+<li><p>N. Boullé, V. Dallas, Y. Nakatsukasa, and D. Samaddar, Classification of chaotic time series with deep learning, Physica D 403 (2020), 132261. <a href="https://arxiv.org/abs/1908.06848">arxiv</a></li>
 </ol>
