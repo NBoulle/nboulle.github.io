@@ -83,7 +83,7 @@ author:
   name             : "Nicolas Boulle"
   avatar           : "profile.png"
   bio              : "Research Fellow at the University of Cambridge"
-  location         : ""
+  location         :
   employer         : "University of Cambridge"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=EWw0oakAAAAJ"
