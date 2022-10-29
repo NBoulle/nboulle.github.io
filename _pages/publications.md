@@ -33,3 +33,4 @@ author_profile: true
 <li><p>E. G. Charalampidis, N. Boullé, P. E. Farrell, and P. G. Kevrekidis, Bifurcation analysis of stationary solutions of two-dimensional coupled Gross-Pitaevskii equations using deflated continuation, Commun. Nonlinear Sci. Numer. Simulat. 87 (2020), 105255. <a href="https://arxiv.org/abs/1912.00023">arxiv</a>
 <li><p>N. Boullé and A. Townsend, Computing with functions in the ball, SIAM J. Sci. Comput. 42(4) (2020), C169-C191. <a href="https://arxiv.org/abs/1911.00114">arxiv</a>
 <li><p>N. Boullé, V. Dallas, Y. Nakatsukasa, and D. Samaddar, Classification of chaotic time series with deep learning, Physica D 403 (2020), 132261. <a href="https://arxiv.org/abs/1908.06848">arxiv</a>
+<p><b>PhD Thesis (University of Oxford, 2022):</b> <a href="https://nboulle.github.io/files/thesis.pdf">Data-driven discovery of Green's functions</a> 
