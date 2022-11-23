@@ -18,7 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
-<li><p> F. Laakmann and N. Boullé, Bifurcation analysis of a two-dimensional magnetic Rayleigh-Béenard problem, submitted, 2022.
+<li><p> F. Laakmann and N. Boullé, Bifurcation analysis of a two-dimensional magnetic Rayleigh-Béenard problem, submitted, 2022. <a href="https://arxiv.org/abs/2211.12163">arxiv</a>
 <li><p> H. Praveen, N. Boullé, and C. Earls, Principled interpolation of Green's functions learned from data, submitted, 2022. <a href="https://arxiv.org/abs/2211.06299">arxiv</a>
 <li><p>N. Boullé, I. Newell, P. E. Farrell, and P. G. Kevrekidis, Two-Component 3D Atomic Bose-Einstein Condensates Support Complex Stable Patterns, submitted, 2022. <a href="https://arxiv.org/abs/2208.05703">arxiv</a>
 <li><p>N. Boullé, S. Kim, T. Shi, and A. Townsend, Learning Green's functions associated with time-dependent partial differential equations, J. Mach. Learn. Res. 23(218) (2022), 1-34. <a href="https://arxiv.org/abs/2204.12789">arxiv</a>
