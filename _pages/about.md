@@ -9,3 +9,8 @@ redirect_from:
 ---
 
 I am a Simons Postdoctoral Research Fellow in Mathematics at the University of Cambridge.
+
+My research interests lie at the intersection between numerical analysis and deep learning. I primarily
+focus on the mathematical foundations of deep learning to discover mathematical models (partial
+differential equations) from data, and the development of novel and theoretically justified numerical
+techniques.
