@@ -22,7 +22,7 @@ author_profile: true
 <li><p> H. Praveen, N. Boullé, and C. Earls, Principled interpolation of Green's functions learned from data, submitted, 2022. <a href="https://arxiv.org/abs/2211.06299">arxiv</a>
 <li><p>N. Boullé, I. Newell, P. E. Farrell, and P. G. Kevrekidis, Two-Component 3D Atomic Bose-Einstein Condensates Support Complex Stable Patterns, to appear in Phys. Rev. A, 2023. <a href="https://arxiv.org/abs/2208.05703">arxiv</a>
 <li><p>N. Boullé, S. Kim, T. Shi, and A. Townsend, Learning Green's functions associated with time-dependent partial differential equations, J. Mach. Learn. Res. 23(218) (2022), 1-34. <a href="https://arxiv.org/abs/2204.12789">arxiv</a>
-<li><p>N. Boullé, P. E. Farrell, and M. E. Rognes, Optimal control of Hopf bifurcations, submitted, 2022. <a href="https://arxiv.org/abs/2201.11684">arxiv</a>
+<li><p>N. Boullé, P. E. Farrell, and M. E. Rognes, Optimal control of Hopf bifurcations, to appear in SIAM J. Sci. Comput., 2023. <a href="https://arxiv.org/abs/2201.11684">arxiv</a>
 <li><p>N. Boullé, P. E. Farrell, and A. Paganini, Control of bifurcation structures using shape optimization, SIAM J. Sci. Comput. 44(1) (2022), A57-A76. <a href="https://arxiv.org/abs/2105.14884">arxiv</a>
 <li><p>N. Boullé and A. Townsend, A generalization of the randomized singular value decomposition, ICLR (2022). <a href="https://arxiv.org/abs/2105.13052">arxiv</a>
 <li><p>N. Boullé, C. J. Earls, and A. Townsend, Data-driven discovery of Green's functions with human-understandable deep learning, Sci. Rep. 12 (2022), 4824. <a href="https://arxiv.org/abs/2105.00266">arxiv</a>
