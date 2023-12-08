@@ -18,7 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
-<li><p>N. Boullé, D. Halikias, and A. Townsend, Elliptic PDE learning is provably data-efficient, PNAS, 2023. <a href="https://arxiv.org/abs/2302.12888">arxiv</a>
+<li><p>N. Boullé, D. Halikias, and A. Townsend, Elliptic PDE learning is provably data-efficient, PNAS 120(39) (2023), e2303904120. <a href="https://arxiv.org/abs/2302.12888">arxiv</a>
 <li><p> F. Laakmann and N. Boullé, Bifurcation analysis of a two-dimensional magnetic Rayleigh-Bénard problem, submitted, 2022. <a href="https://arxiv.org/abs/2211.12163">arxiv</a>
 <li><p> H. Praveen, N. Boullé, and C. Earls, Principled interpolation of Green's functions learned from data, Comput. Methods Appl. Mech. Eng. 409 (2023), 115971. <a href="https://arxiv.org/abs/2211.06299">arxiv</a>
 <li><p>N. Boullé, I. Newell, P. E. Farrell, and P. G. Kevrekidis, Two-component three-dimensional atomic Bose-Einstein condensates supporting complex stable patterns, Phys. Rev. A 107 (2023), 012813. <a href="https://arxiv.org/abs/2208.05703">arxiv</a>
