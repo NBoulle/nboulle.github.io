@@ -18,7 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
-<li><p>N. Boullé and A. Townsend, A Mathematical Guide to Operator Learning, to appear in the Handbook of Numerical Analysis, 2023.
+<li><p>N. Boullé and A. Townsend, A Mathematical Guide to Operator Learning, to appear in the Handbook of Numerical Analysis, 2023.  <a href="https://arxiv.org/abs/2312.14688">arxiv</a>
 <li><p>N. Boullé, A. Herremans, and D. Huybrechs, Multivariate rational approximation of functions with curves of singularities, submitted, 2023.  <a href="https://arxiv.org/abs/2312.13202">arxiv</a>
 <li><p>N. Boullé, D. Halikias, and A. Townsend, Elliptic PDE learning is provably data-efficient, PNAS 120(39) (2023), e2303904120. <a href="https://arxiv.org/abs/2302.12888">arxiv</a>
 <li><p> F. Laakmann and N. Boullé, Bifurcation analysis of a two-dimensional magnetic Rayleigh-Bénard problem, submitted, 2022. <a href="https://arxiv.org/abs/2211.12163">arxiv</a>
