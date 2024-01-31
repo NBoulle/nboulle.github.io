@@ -18,7 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
-<li><p>N. Boull\'e, D. Halikias, S. E. Otto, and A. Townsend, Operator learning without the adjoint, submitted, 2024.
+<li><p>N. Boullé, D. Halikias, S. E. Otto, and A. Townsend, Operator learning without the adjoint, submitted, 2024.
 <li><p>N. Boullé and M. Colbrook, On the Convergence of Hermitian Dynamic Mode Decomposition, submitted, 2023.  <a href="https://arxiv.org/abs/2401.03192">arxiv</a>
 <li><p>N. Boullé and A. Townsend, A Mathematical Guide to Operator Learning, to appear in the Handbook of Numerical Analysis, 2023.  <a href="https://arxiv.org/abs/2312.14688">arxiv</a>
 <li><p>N. Boullé, A. Herremans, and D. Huybrechs, Multivariate rational approximation of functions with curves of singularities, submitted, 2023.  <a href="https://arxiv.org/abs/2312.13202">arxiv</a>
