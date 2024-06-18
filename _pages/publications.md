@@ -20,13 +20,13 @@ author_profile: true
 <ol reversed>
 <li><p>N. Boullé and M. Colbrook, Multiplicative Dynamic Mode Decomposition, submitted, 2024. <a href="https://arxiv.org/abs/2405.05334">arxiv</a>
 <li><p>D. Persson, N. Boullé, and D. Kressner, Randomized Nyström approximation of non-negative self-adjoint operators, submitted, 2024. <a href="https://arxiv.org/abs/2404.00960">arxiv</a>
-<li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law, submitted, 2024. <a href="https://arxiv.org/abs/2402.00795">arxiv</a>
+<li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law, ICML Workshop on In-Context Learning (2024). <a href="https://arxiv.org/abs/2402.00795">arxiv</a>
 <li><p>N. Boullé, D. Halikias, S. E. Otto, and A. Townsend, Operator learning without the adjoint, submitted, 2024. <a href="https://arxiv.org/abs/2401.17739">arxiv</a>
-<li><p>N. Boullé and M. Colbrook, On the Convergence of Hermitian Dynamic Mode Decomposition, submitted, 2023.  <a href="https://arxiv.org/abs/2401.03192">arxiv</a>
-<li><p>N. Boullé and A. Townsend, A Mathematical Guide to Operator Learning, to appear in the Handbook of Numerical Analysis, 2023.  <a href="https://arxiv.org/abs/2312.14688">arxiv</a>
-<li><p>N. Boullé, A. Herremans, and D. Huybrechs, Multivariate rational approximation of functions with curves of singularities, submitted, 2023.  <a href="https://arxiv.org/abs/2312.13202">arxiv</a>
+<li><p>N. Boullé and M. Colbrook, On the Convergence of Hermitian Dynamic Mode Decomposition, submitted, 2023. <a href="https://arxiv.org/abs/2401.03192">arxiv</a>
+<li><p>N. Boullé and A. Townsend, A Mathematical Guide to Operator Learning, Handbook of Numerical Analysis 25 (2024). <a href="https://arxiv.org/abs/2312.14688">arxiv</a>
+<li><p>N. Boullé, A. Herremans, and D. Huybrechs, Multivariate rational approximation of functions with curves of singularities, submitted, 2023. <a href="https://arxiv.org/abs/2312.13202">arxiv</a>
 <li><p>N. Boullé, D. Halikias, and A. Townsend, Elliptic PDE learning is provably data-efficient, PNAS 120(39) (2023), e2303904120. <a href="https://arxiv.org/abs/2302.12888">arxiv</a>
-<li><p> F. Laakmann and N. Boullé, Bifurcation analysis of a two-dimensional magnetic Rayleigh-Bénard problem, submitted, 2022. <a href="https://arxiv.org/abs/2211.12163">arxiv</a>
+<li><p> F. Laakmann and N. Boullé, Bifurcation analysis of a two-dimensional magnetic Rayleigh-Bénard problem, to appear in Physica D, 2024. <a href="https://arxiv.org/abs/2211.12163">arxiv</a>
 <li><p> H. Praveen, N. Boullé, and C. Earls, Principled interpolation of Green's functions learned from data, Comput. Methods Appl. Mech. Eng. 409 (2023), 115971. <a href="https://arxiv.org/abs/2211.06299">arxiv</a>
 <li><p>N. Boullé, I. Newell, P. E. Farrell, and P. G. Kevrekidis, Two-component three-dimensional atomic Bose-Einstein condensates supporting complex stable patterns, Phys. Rev. A 107 (2023), 012813. <a href="https://arxiv.org/abs/2208.05703">arxiv</a>
 <li><p>N. Boullé, S. Kim, T. Shi, and A. Townsend, Learning Green's functions associated with time-dependent partial differential equations, J. Mach. Learn. Res. 23(218) (2022), 1-34. <a href="https://arxiv.org/abs/2204.12789">arxiv</a>
