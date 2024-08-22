@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Nicolas Boullé"
 title_separator          : "-"
 name                     : &name "Nicolas Boullé"
-description              : &description "Research Fellow at the University of Cambridge"
+description              : &description "Assistant Professor at Imperial College London"
 url                      : https://nboulle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NBoulle/nboulle.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicolas Boullé"
   avatar           : "profile.jpg"
-  bio              : "Research Fellow at the University of Cambridge"
+  bio              : "Assistant Professor at Imperial College London"
   location         : 
-  employer         : "University of Cambridge"
+  employer         : "Imperial College London"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=EWw0oakAAAAJ"
-  email            : "nb690@cam.ac.uk"
+  email            : "n.boulle@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

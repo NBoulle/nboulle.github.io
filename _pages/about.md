@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow in Mathematics at the University of Cambridge and will be joining Imperial College London as an Assistant Professor in Applied Mathematics in September 2024.
+I am an Assistant Professor in Applied Mathematics at Imperial College London.
 
 My research interests lie at the intersection between numerical analysis and deep learning. I primarily focus on the mathematical foundations of deep learning to discover mathematical models (partial differential equations) from data, and the development of novel and theoretically justified numerical techniques.
 
