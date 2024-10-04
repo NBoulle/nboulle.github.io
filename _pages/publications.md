@@ -18,7 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
-<li><p> O. Zekri, A. Odonnat, A. Benechehab, L. Bleistein, N. Boullé, and I. Redko, Large Language Models as Markov Chains, submitted, 2024.
+<li><p> O. Zekri, A. Odonnat, A. Benechehab, L. Bleistein, N. Boullé, and I. Redko, Large Language Models as Markov Chains, submitted, 2024. <a href="https://arxiv.org/abs/2410.02724">arxiv</a>
 <li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, Visualizing in-context probability trajectories of LLMs, submitted, 2024.
 <li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, Lines of Thought in Large Language Models, submitted, 2024. <a href="https://arxiv.org/abs/2410.01545">arxiv</a>
 <li><p> N. Bouziani and N. Boullé, Structure-Preserving Operator Learning, submitted, 2024. <a href="https://arxiv.org/abs/2410.01065">arxiv</a>
