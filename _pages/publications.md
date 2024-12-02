@@ -18,15 +18,16 @@ author_profile: true
 --->
 
 <ol reversed>
+<li><p> C. Runkel, S. Xiao, N. Boull\'e, and Y. Chen, Operator learning regularization for macroscopic permeability prediction in dual-scale flow problem, submitted, 2024.
 <li><p> O. Zekri, A. Odonnat, A. Benechehab, L. Bleistein, N. Boullé, and I. Redko, Large Language Models as Markov Chains, submitted, 2024. <a href="https://arxiv.org/abs/2410.02724">arxiv</a>
 <li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, Density estimation with LLMs: a geometric investigation of in-context learning trajectories, submitted, 2024. <a href="https://arxiv.org/abs/2410.05218">arxiv</a>
 <li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, Lines of Thought in Large Language Models, submitted, 2024. <a href="https://arxiv.org/abs/2410.01545">arxiv</a>
 <li><p> N. Bouziani and N. Boullé, Structure-Preserving Operator Learning, submitted, 2024. <a href="https://arxiv.org/abs/2410.01065">arxiv</a>
 <li><p>N. Boullé and M. Colbrook, Multiplicative Dynamic Mode Decomposition, submitted, 2024. <a href="https://arxiv.org/abs/2405.05334">arxiv</a>
 <li><p>D. Persson, N. Boullé, and D. Kressner, Randomized Nyström approximation of non-negative self-adjoint operators, submitted, 2024. <a href="https://arxiv.org/abs/2404.00960">arxiv</a>
-<li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law, EMNLP (2024). <a href="https://arxiv.org/abs/2402.00795">arxiv</a>
+<li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law, EMNLP - Oral (2024). <a href="https://arxiv.org/abs/2402.00795">arxiv</a>
 <li><p>N. Boullé, D. Halikias, S. E. Otto, and A. Townsend, Operator learning without the adjoint, to appear in J. Mach. Learn. Res., 2024. <a href="https://arxiv.org/abs/2401.17739">arxiv</a>
-<li><p>N. Boullé and M. Colbrook, On the Convergence of Hermitian Dynamic Mode Decomposition, submitted, 2023. <a href="https://arxiv.org/abs/2401.03192">arxiv</a>
+<li><p>N. Boullé and M. Colbrook, On the Convergence of Hermitian Dynamic Mode Decomposition, to appear in Physica D, 2024. <a href="https://arxiv.org/abs/2401.03192">arxiv</a>
 <li><p>N. Boullé and A. Townsend, A Mathematical Guide to Operator Learning, Handbook of Numerical Analysis 25 (2024). <a href="https://arxiv.org/abs/2312.14688">arxiv</a>
 <li><p>N. Boullé, A. Herremans, and D. Huybrechs, Multivariate rational approximation of functions with curves of singularities, to appear in SIAM J. Sci. Comput., 2024. <a href="https://arxiv.org/abs/2312.13202">arxiv</a>
 <li><p>N. Boullé, D. Halikias, and A. Townsend, Elliptic PDE learning is provably data-efficient, PNAS 120(39) (2023), e2303904120. <a href="https://arxiv.org/abs/2302.12888">arxiv</a>
