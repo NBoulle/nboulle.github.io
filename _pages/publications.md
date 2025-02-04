@@ -18,6 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
+<li><p> O. Zekri and N. Boullé, Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods, submitted, 2025.
 <li><p> C. Runkel, S. Xiao, N. Boullé, and Y. Chen, Operator learning regularization for macroscopic permeability prediction in dual-scale flow problem, submitted, 2024.
 <li><p> O. Zekri, A. Odonnat, A. Benechehab, L. Bleistein, N. Boullé, and I. Redko, Large Language Models as Markov Chains, submitted, 2024. <a href="https://arxiv.org/abs/2410.02724">arxiv</a>
 <li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, Density estimation with LLMs: a geometric investigation of in-context learning trajectories, ICLR 2025. <a href="https://arxiv.org/abs/2410.05218">arxiv</a>
