@@ -24,8 +24,8 @@ author_profile: true
 <li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, Density estimation with LLMs: a geometric investigation of in-context learning trajectories, ICLR 2025. <a href="https://arxiv.org/abs/2410.05218">arxiv</a>
 <li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, Lines of Thought in Large Language Models, ICLR 2025. <a href="https://arxiv.org/abs/2410.01545">arxiv</a>
 <li><p> N. Bouziani and N. Boullé, Structure-Preserving Operator Learning, submitted, 2024. <a href="https://arxiv.org/abs/2410.01065">arxiv</a>
-<li><p>N. Boullé and M. Colbrook, Multiplicative Dynamic Mode Decomposition, submitted, 2024. <a href="https://arxiv.org/abs/2405.05334">arxiv</a>
-<li><p>D. Persson, N. Boullé, and D. Kressner, Randomized Nyström approximation of non-negative self-adjoint operators, submitted, 2024. <a href="https://arxiv.org/abs/2404.00960">arxiv</a>
+<li><p>N. Boullé and M. Colbrook, Multiplicative Dynamic Mode Decomposition, to appear in SIAM J. Appl. Dyn. Syst., 2025. <a href="https://arxiv.org/abs/2405.05334">arxiv</a>
+<li><p>D. Persson, N. Boullé, and D. Kressner, Randomized Nyström approximation of non-negative self-adjoint operators, to appear in SIAM J. Math. Data Sci., 2025. <a href="https://arxiv.org/abs/2404.00960">arxiv</a>
 <li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law, EMNLP - Oral (2024). <a href="https://arxiv.org/abs/2402.00795">arxiv</a>
 <li><p>N. Boullé, D. Halikias, S. E. Otto, and A. Townsend, Operator learning without the adjoint, J. Mach. Learn. Res., 2024. <a href="https://arxiv.org/abs/2401.17739">arxiv</a>
 <li><p>N. Boullé and M. Colbrook, On the Convergence of Hermitian Dynamic Mode Decomposition, Physica D, 2024. <a href="https://arxiv.org/abs/2401.03192">arxiv</a>
