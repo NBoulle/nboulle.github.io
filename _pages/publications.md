@@ -18,6 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
+<li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, What's in a prompt? Language models encode literary style in prompt embeddings, submitted, 2025.
 <li><p> J. Rowbottom, S. Fresca, P. Lio, C.-B. Schönlieb, and N. Boullé, Multi-Level Monte Carlo Training of Neural Operators, submitted, 2025.
 <li><p> O. Zekri and N. Boullé, Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods, submitted, 2025. <a href="https://arxiv.org/abs/2502.01384">arxiv</a>
 <li><p> C. Runkel, S. Xiao, N. Boullé, and Y. Chen, Operator learning regularization for macroscopic permeability prediction in dual-scale flow problem, submitted, 2024. <a href="https://arxiv.org/abs/2412.00579">arxiv</a>
