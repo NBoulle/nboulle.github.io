@@ -18,8 +18,8 @@ author_profile: true
 --->
 
 <ol reversed>
-<li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, What's in a prompt? Language models encode literary style in prompt embeddings, submitted, 2025.
-<li><p> J. Rowbottom, S. Fresca, P. Lio, C.-B. Schönlieb, and N. Boullé, Multi-Level Monte Carlo Training of Neural Operators, submitted, 2025.
+<li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, What's in a prompt? Language models encode literary style in prompt embeddings, submitted, 2025. <a href="https://arxiv.org/abs/2505.17071">arxiv</a>
+<li><p> J. Rowbottom, S. Fresca, P. Lio, C.-B. Schönlieb, and N. Boullé, Multi-Level Monte Carlo Training of Neural Operators, submitted, 2025. <a href="https://arxiv.org/abs/2505.12940">arxiv</a>
 <li><p> O. Zekri and N. Boullé, Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods, submitted, 2025. <a href="https://arxiv.org/abs/2502.01384">arxiv</a>
 <li><p> C. Runkel, S. Xiao, N. Boullé, and Y. Chen, Operator learning regularization for macroscopic permeability prediction in dual-scale flow problem, submitted, 2024. <a href="https://arxiv.org/abs/2412.00579">arxiv</a>
 <li><p> O. Zekri, A. Odonnat, A. Benechehab, L. Bleistein, N. Boullé, and I. Redko, Large Language Models as Markov Chains, submitted, 2024. <a href="https://arxiv.org/abs/2410.02724">arxiv</a>
