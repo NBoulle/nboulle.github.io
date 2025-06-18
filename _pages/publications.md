@@ -18,6 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
+<li><p> N. Boullé, M. Colbrook, and G. Conradie, Convergent Methods for Koopman Operators on Reproducing Kernel Hilbert Spaces, submitted, 2025.
 <li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, What's in a prompt? Language models encode literary style in prompt embeddings, submitted, 2025. <a href="https://arxiv.org/abs/2505.17071">arxiv</a>
 <li><p> J. Rowbottom, S. Fresca, P. Lio, C.-B. Schönlieb, and N. Boullé, Multi-Level Monte Carlo Training of Neural Operators, submitted, 2025. <a href="https://arxiv.org/abs/2505.12940">arxiv</a>
 <li><p> O. Zekri and N. Boullé, Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods, submitted, 2025. <a href="https://arxiv.org/abs/2502.01384">arxiv</a>
