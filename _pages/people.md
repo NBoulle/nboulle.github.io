@@ -7,7 +7,7 @@ author_profile: true
 
 <img src="https://nboulle.github.io/images/conradie.jpeg" alt="Gustav Conradie" width="200" />
 <p>
-  <a href="https://www.maths.cam.ac.uk/person/gjc51">Gustav Conradie</a>.
+  <a href="https://www.maths.cam.ac.uk/person/gjc51">Gustav Conradie</a>
   <br>Topic: Koopman operators.
   <br>Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>.
 </p>
@@ -32,7 +32,7 @@ author_profile: true
 
 <img src="https://nboulle.github.io/images/zekri.jpg" alt="Oussama Zekri" width="200" />
 <p>
-  <a href="https://www.oussamazekri.fr/">Oussama Zekri</a>.
+  <a href="https://www.oussamazekri.fr/">Oussama Zekri</a>
   <br>Topic: Fine-tuning discrete diffusion models.
   <br> Visited November 2024 to January 2025 for an ENS MSc internship.
 </p>
