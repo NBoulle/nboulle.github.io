@@ -22,7 +22,7 @@ author_profile: true
   <br>Co-supervised with <a href="https://www.damtp.cam.ac.uk/person/cbs31">Carola-Bibiane Schönlieb</a>.
 </p>
 
-# Visiting Research Students
+# Visiting research students
 
 <p>
   <br>Emett Haddad
