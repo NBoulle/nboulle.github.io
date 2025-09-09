@@ -18,6 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
+<li><p> J. Bao, N. Boullé, T. J.B. Liu, R. Sarfati, and C. J. Earls, Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, submitted, 2025. <a href="https://arxiv.org/abs/2509.06322">arxiv</a>
 <li><p> N. Boullé, M. Colbrook, and G. Conradie, Convergent Methods for Koopman Operators on Reproducing Kernel Hilbert Spaces, submitted, 2025. <a href="https://arxiv.org/abs/2506.15782">arxiv</a>
 <li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, What's in a prompt? Language models encode literary style in prompt embeddings, EMNLP (2025). <a href="https://arxiv.org/abs/2505.17071">arxiv</a>
 <li><p> J. Rowbottom, S. Fresca, P. Lio, C.-B. Schönlieb, and N. Boullé, Multi-Level Monte Carlo Training of Neural Operators, submitted, 2025. <a href="https://arxiv.org/abs/2505.12940">arxiv</a>
