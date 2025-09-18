@@ -22,7 +22,7 @@ author_profile: true
 <li><p> N. Boullé, M. Colbrook, and G. Conradie, Convergent Methods for Koopman Operators on Reproducing Kernel Hilbert Spaces, submitted, 2025. <a href="https://arxiv.org/abs/2506.15782">arxiv</a>
 <li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, What's in a prompt? Language models encode literary style in prompt embeddings, EMNLP (2025). <a href="https://arxiv.org/abs/2505.17071">arxiv</a>
 <li><p> J. Rowbottom, S. Fresca, P. Lio, C.-B. Schönlieb, and N. Boullé, Multi-Level Monte Carlo Training of Neural Operators, submitted, 2025. <a href="https://arxiv.org/abs/2505.12940">arxiv</a>
-<li><p> O. Zekri and N. Boullé, Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods, submitted, 2025. <a href="https://arxiv.org/abs/2502.01384">arxiv</a>
+<li><p> O. Zekri and N. Boullé, Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods, NeurIPS (2025). <a href="https://arxiv.org/abs/2502.01384">arxiv</a>
 <li><p> C. Runkel, S. Xiao, N. Boullé, and Y. Chen, Operator learning regularization for macroscopic permeability prediction in dual-scale flow problem, submitted, 2024. <a href="https://arxiv.org/abs/2412.00579">arxiv</a>
 <li><p> O. Zekri, A. Odonnat, A. Benechehab, L. Bleistein, N. Boullé, and I. Redko, Large Language Models as Markov Chains, submitted, 2024. <a href="https://arxiv.org/abs/2410.02724">arxiv</a>
 <li><p>T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls, Density estimation with LLMs: a geometric investigation of in-context learning trajectories, ICLR (2025). <a href="https://arxiv.org/abs/2410.05218">arxiv</a>
