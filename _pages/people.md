@@ -16,8 +16,8 @@ author_profile: true
 }
 
 .student img {
-  width: 150px; /* adjust as needed */
-  height: auto;
+  width: auto; /* adjust as needed */
+  height: 200px;
   display: block;
   margin: 0 auto 0.5rem;
 }
