@@ -4,30 +4,73 @@ title: "PhD students"
 permalink: /people/
 author_profile: true
 ---
+<style>
+.students {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* two equal columns */
+  gap: 2rem;
+}
 
-<img src="https://nboulle.github.io/images/conradie.jpeg" alt="Gustav Conradie" width="200" />
-<p>
-  <a href="https://www.maths.cam.ac.uk/person/gjc51">Gustav Conradie</a>
-  <br>Topic: Koopman operators.
-  <br>Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>.
-</p>
+.student {
+  text-align: center; /* center image + text */
+}
 
-<p>
-</p>
+.student img {
+  width: 150px; /* adjust as needed */
+  height: auto;
+  display: block;
+  margin: 0 auto 0.5rem;
+}
 
-<img src="https://nboulle.github.io/images/runkel.jpg" alt="Christina Runkel" width="200" />
-<p>
-  <a href="https://www.damtp.cam.ac.uk/person/cr661">Christina Runkel</a>
-  <br>Topic: deep learning and operator learning.
-  <br>Co-supervised with <a href="https://www.damtp.cam.ac.uk/person/cbs31">Carola-Bibiane Schönlieb</a>.
-</p>
+.student p {
+  margin: 0.25rem 0;
+}
 
-<img src="https://nboulle.github.io/images/zekri.jpg" alt="Oussama Zekri" width="200" />
-<p>
-  <a href="https://www.oussamazekri.fr/">Oussama Zekri</a>
-  <br>Topic: Discrete diffusion models.
-  <br> Co-supervised with <a href="https://akorba.github.io/">Anna Korba</a>.
-</p>
+/* Collapse to one column on small screens */
+@media (max-width: 700px) {
+  .students {
+    grid-template-columns: 1fr; /* single column */
+  }
+}
+</style>
+
+<div class="students">
+  <div class="student">
+    <img src="https://nboulle.github.io/images/conradie.jpeg" alt="Gustav Conradie">
+    <p><a href="https://www.maths.cam.ac.uk/person/gjc51">Gustav Conradie</a></p>
+    <p>Topic: Koopman operators.</p>
+    <p>Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>.</p>
+  </div>
+
+  <div class="student">
+    <img src="https://nboulle.github.io/images/gray.jpeg" alt="Kelan Gray">
+    <p>Kelan Gray</p>
+    <p>Topic: Koopman operators.</p>
+    <p>Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>.</p>
+  </div>
+
+  <div class="student">
+    <img src="https://nboulle.github.io/images/ross.jpeg" alt="Jack Ross">
+    <p>Jack Ross</p>
+    <p>Topic: Machine learning and dynamical systems.</p>
+    <p>Co-supervised with <a href="https://www.ma.imperial.ac.uk/~mrasmuss/">Martin Rasmussen</a>.</p>
+  </div>
+
+  <div class="student">
+    <img src="https://nboulle.github.io/images/runkel.jpg" alt="Christina Runkel">
+    <p><a href="https://www.damtp.cam.ac.uk/person/cr661">Christina Runkel</a></p>
+    <p>Topic: Deep learning and operator learning.</p>
+    <p>Co-supervised with <a href="https://www.damtp.cam.ac.uk/person/cbs31">Carola-Bibiane Schönlieb</a>.</p>
+  </div>
+
+  <div class="student">
+    <img src="https://nboulle.github.io/images/zekri.jpg" alt="Oussama Zekri">
+    <p><a href="https://www.oussamazekri.fr/">Oussama Zekri</a></p>
+    <p>Topic: Discrete diffusion models.</p>
+    <p>Co-supervised with <a href="https://akorba.github.io/">Anna Korba</a>.</p>
+  </div>
+</div>
+
 
 # Visiting research students
 
