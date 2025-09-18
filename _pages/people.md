@@ -60,7 +60,7 @@ author_profile: true
     <img src="https://nboulle.github.io/images/runkel.jpg" alt="Christina Runkel">
     <p><a href="https://www.damtp.cam.ac.uk/person/cr661">Christina Runkel</a></p>
     <p>Topic: Deep learning and operator learning.</p>
-    <p>Co-supervised with <a href="https://www.damtp.cam.ac.uk/person/cbs31">Carola-Bibiane Schönlieb</a>.</p>
+    <p>Co-supervised with <a href="https://www.damtp.cam.ac.uk/person/cbs31">Carola Schönlieb</a>.</p>
   </div>
 
   <div class="student">
