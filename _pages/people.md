@@ -57,13 +57,6 @@ author_profile: true
   </div>
 
   <div class="student">
-    <img src="https://nboulle.github.io/images/runkel.jpg" alt="Christina Runkel">
-    <p><a href="https://www.damtp.cam.ac.uk/person/cr661">Christina Runkel</a></p>
-    <p>Topic: Deep learning and operator learning.</p>
-    <p>Co-supervised with <a href="https://www.damtp.cam.ac.uk/person/cbs31">Carola Schönlieb</a>.</p>
-  </div>
-
-  <div class="student">
     <img src="https://nboulle.github.io/images/zekri.jpg" alt="Oussama Zekri">
     <p><a href="https://www.oussamazekri.fr/">Oussama Zekri</a></p>
     <p>Topic: Discrete diffusion models.</p>
@@ -72,16 +65,11 @@ author_profile: true
 </div>
 
 
-# Visiting research students
+# Past graduate students
 
-<p>
-  <br>Emett Haddad
-  <br>Topic: Neural operator preconditioners.
-  <br> Visited April 2025 to July 2025 for an ENS MSc internship.
-</p>
-
-<p>
-  <br> <a href="https://www.oussamazekri.fr/">Oussama Zekri</a>
-  <br>Topic: Fine-tuning discrete diffusion models.
-  <br> Visited November 2024 to January 2025 for an ENS MSc internship.
-</p>
+<div class="student">
+    <img src="https://nboulle.github.io/images/runkel.jpg" alt="Christina Runkel">
+    <p><a href="https://www.damtp.cam.ac.uk/person/cr661">Christina Runkel</a></p>
+    <p>Thesis: Continuous representations in machine learning.</p>
+    <p>Co-supervised with <a href="https://www.damtp.cam.ac.uk/person/cbs31">Carola Schönlieb</a>.</p>
+  </div>
