@@ -18,6 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
+<li><p>T. J.B. Liu, B. Zadeoglu, R. Sarfati, N. Boullé, and C. J. Earls, Jacobian Scopes: token-level causal attributions in LLMs, submitted, 2026. <a href="https://arxiv.org/abs/2601.16407">arxiv</a>
 <li><p> J. Bao, N. Boullé, T. J.B. Liu, R. Sarfati, and C. J. Earls, Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics, submitted, 2025. <a href="https://arxiv.org/abs/2509.06322">arxiv</a>
 <li><p> N. Boullé, M. Colbrook, and G. Conradie, Convergent Methods for Koopman Operators on Reproducing Kernel Hilbert Spaces, submitted, 2025. <a href="https://arxiv.org/abs/2506.15782">arxiv</a>
 <li><p> R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls, What's in a prompt? Language models encode literary style in prompt embeddings, EMNLP (2025). <a href="https://arxiv.org/abs/2505.17071">arxiv</a>
