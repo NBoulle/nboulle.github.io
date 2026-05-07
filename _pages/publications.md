@@ -18,6 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
+<li><p> O. Zekri, A. Korba, and N. Boullé, Gibbs Gradient Descent: A Langevin Approach to Optimization, submitted, 2026.
 <li><p> G. Conradie, N. Boullé, J-C Loiseau, S. L. Brunton, and M. J. Colbrook, Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds, submitted, 2026. <a href="https://arxiv.org/abs/2603.15091">arxiv</a>
 <li><p> O. Zekri, T. Uscidda, N. Boullé, and A. Korba, Generalized Discrete Diffusion from Snapshots, submitted, 2026. <a href="https://arxiv.org/abs/2603.21342">arxiv</a>
 <li><p>T. J.B. Liu, B. Zadeoglu, R. Sarfati, N. Boullé, and C. J. Earls, Jacobian Scopes: token-level causal attributions in LLMs, submitted, 2026. <a href="https://arxiv.org/abs/2601.16407">arxiv</a>
