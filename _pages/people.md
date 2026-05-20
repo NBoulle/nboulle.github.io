@@ -37,7 +37,7 @@ author_profile: true
 <div class="students">
   <div class="student">
     <img src="https://nboulle.github.io/images/conradie.jpeg" alt="Gustav Conradie">
-    <p><a href="https://www.maths.cam.ac.uk/person/gjc51">Gustav Conradie</a></p>
+    <p><a href="https://gustavconradie1.github.io/">Gustav Conradie</a></p>
     <p>Topic: Koopman operators.</p>
     <p>Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>.</p>
   </div>
