@@ -18,6 +18,7 @@ author_profile: true
 --->
 
 <ol reversed>
+<li><p> N. Boullé, D. Halikias, S.E. Otto, and A. Townsend, A zero-one law for one-shot system identification, submitted, 2026.
 <li><p> K. Gray, F. Brown, N. Boullé, and M.J. Colbrook, Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning, submitted, 2026. <a href="https://arxiv.org/abs/2606.05131">arxiv</a>
 <li><p> L. Ma, N. Boullé, Y.-S. Yang, H. Wu, and L. Guo, Physics-guided correction for operator learning under model misspecification, submitted, 2026. <a href="https://arxiv.org/abs/2606.03469">arxiv</a>
 <li><p> O. Zekri, A. Korba, and N. Boullé, Gibbs Gradient Descent: A Langevin Approach to Optimization, submitted, 2026.
