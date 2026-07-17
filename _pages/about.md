@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in Applied Mathematics at Imperial College London.
 
-My research focuses on AI for Science, with a particular emphasis on scientific machine learning. I work on the mathematical foundations of machine learning for discovering and approximating scientific models from data, including partial differential equations, and on developing robust, theoretically grounded numerical and learning methods.
+My research focuses on numerical analysis and AI for Science, with a particular emphasis on scientific machine learning. I work on the mathematical foundations of machine learning for discovering and approximating scientific models from data, including partial differential equations, and on developing robust, theoretically grounded numerical and learning methods.
 
 <style>
 .about-figures {
