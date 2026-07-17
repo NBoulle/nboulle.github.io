@@ -9,16 +9,16 @@ featured:
     authors: N. Boullé and A. Townsend
     venue: Survey
     arxiv: https://arxiv.org/abs/2312.14688
+  - year: 2024
+    title: LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law
+    authors: T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls
+    venue: EMNLP - Oral
+    arxiv: https://arxiv.org/abs/2402.00795
   - year: 2025
     title: Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods
     authors: O. Zekri and N. Boullé
     venue: NeurIPS
     arxiv: https://arxiv.org/abs/2502.01384
-  - year: 2024
-    title: LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law
-    authors: T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls
-    venue: EMNLP
-    arxiv: https://arxiv.org/abs/2402.00795
 
 list:
   - year: 2026
