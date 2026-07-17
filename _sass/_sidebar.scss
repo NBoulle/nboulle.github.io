@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -17,7 +17,7 @@
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
@@ -29,16 +29,22 @@
     padding-right: 0;
   }
 
-  h2, h3, h4, h5, h6 {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
   }
 
-  h3, h4 {
+  h3,
+  h4 {
     font-size: $type-size-5;
   }
 
-  p, li {
+  p,
+  li {
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
@@ -116,6 +122,7 @@
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
@@ -137,7 +144,7 @@
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
-  cursor: pointer;
+  cursor: default;
 
   li:last-child {
     a {
@@ -151,39 +158,26 @@
 
   button {
     margin-bottom: 0;
-
-    @include breakpoint($large) {
-      display: none;
-    }
+    display: none;
   }
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: block;
+  position: relative;
+  right: auto;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  z-index: 0;
+  box-shadow: none;
   cursor: default;
 
-  @include breakpoint($large) {
-    display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-
   &:before {
-    display: block;
+    display: none;
     content: "";
     position: absolute;
     top: -11px;
@@ -194,13 +188,10 @@
     border-color: $border-color transparent;
     z-index: 0;
 
-    @include breakpoint($large) {
-      display: none;
-    }
   }
 
   &:after {
-    display: block;
+    display: none;
     content: "";
     position: absolute;
     top: -10px;
@@ -211,13 +202,17 @@
     border-color: #fff transparent;
     z-index: 1;
 
-    @include breakpoint($large) {
-      display: none;
-    }
   }
 
   li {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  li.author__desktop {
     white-space: nowrap;
+    overflow-wrap: normal;
   }
 
   a {

@@ -1,0 +1,237 @@
+featured:
+  - year: 2023
+    title: Elliptic PDE learning is provably data-efficient
+    authors: N. Boullé, D. Halikias, and A. Townsend
+    venue: PNAS
+    arxiv: https://arxiv.org/abs/2302.12888
+  - year: 2024
+    title: A Mathematical Guide to Operator Learning
+    authors: N. Boullé and A. Townsend
+    venue: Survey
+    arxiv: https://arxiv.org/abs/2312.14688
+  - year: 2025
+    title: Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods
+    authors: O. Zekri and N. Boullé
+    venue: NeurIPS
+    arxiv: https://arxiv.org/abs/2502.01384
+  - year: 2024
+    title: LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law
+    authors: T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls
+    venue: EMNLP
+    arxiv: https://arxiv.org/abs/2402.00795
+
+list:
+  - year: 2026
+    title: A zero-one law for one-shot system identification
+    authors: N. Boullé, D. Halikias, S.E. Otto, and A. Townsend
+    venue: arXiv preprint
+  - year: 2026
+    title: Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning
+    authors: K. Gray, F. Brown, N. Boullé, and M.J. Colbrook
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2606.05131
+  - year: 2026
+    title: Physics-guided correction for operator learning under model misspecification
+    authors: L. Ma, N. Boullé, Y.-S. Yang, H. Wu, and L. Guo
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2606.03469
+  - year: 2026
+    title: "Gibbs Gradient Descent: A Langevin Approach to Optimization"
+    authors: O. Zekri, A. Korba, and N. Boullé
+    venue: arXiv preprint
+  - year: 2026
+    title: "Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds"
+    authors: G. Conradie, N. Boullé, J-C Loiseau, S. L. Brunton, and M. J. Colbrook
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2603.15091
+  - year: 2026
+    title: Generalized Discrete Diffusion from Snapshots
+    authors: O. Zekri, T. Uscidda, N. Boullé, and A. Korba
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2603.21342
+  - year: 2026
+    title: "Jacobian Scopes: token-level causal attributions in LLMs"
+    authors: T. J.B. Liu, B. Zadeoglu, R. Sarfati, N. Boullé, and C. J. Earls
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2601.16407
+  - year: 2026
+    title: Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics
+    authors: J. Bao, N. Boullé, T. J.B. Liu, R. Sarfati, and C. J. Earls
+    venue: ICLR Workshop on AI & PDE - Oral (2026)
+    arxiv: https://arxiv.org/abs/2509.06322
+  - year: 2025
+    title: Convergent Methods for Koopman Operators on Reproducing Kernel Hilbert Spaces
+    authors: N. Boullé, M. Colbrook, and G. Conradie
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2506.15782
+  - year: 2025
+    title: "What's in a prompt? Language models encode literary style in prompt embeddings"
+    authors: R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls
+    venue: EMNLP (2025)
+    arxiv: https://arxiv.org/abs/2505.17071
+  - year: 2026
+    title: Multi-Level Monte Carlo Training of Neural Operators
+    authors: J. Rowbottom, S. Fresca, P. Lio, C.-B. Schonlieb, and N. Boullé
+    venue: Comput. Methods Appl. Mech. Eng. 453 (2026), 118800
+    arxiv: https://arxiv.org/abs/2505.12940
+  - year: 2025
+    title: Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods
+    authors: O. Zekri and N. Boullé
+    venue: NeurIPS (2025)
+    arxiv: https://arxiv.org/abs/2502.01384
+  - year: 2024
+    title: Operator learning regularization for macroscopic permeability prediction in dual-scale flow problem
+    authors: C. Runkel, S. Xiao, N. Boullé, and Y. Chen
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2412.00579
+  - year: 2024
+    title: Large Language Models as Markov Chains
+    authors: O. Zekri, A. Odonnat, A. Benechehab, L. Bleistein, N. Boullé, and I. Redko
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2410.02724
+  - year: 2025
+    title: "Density estimation with LLMs: a geometric investigation of in-context learning trajectories"
+    authors: T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls
+    venue: ICLR (2025)
+    arxiv: https://arxiv.org/abs/2410.05218
+  - year: 2025
+    title: Lines of Thought in Large Language Models
+    authors: R. Sarfati, T. J.B. Liu, N. Boullé, and C. J. Earls
+    venue: ICLR (2025)
+    arxiv: https://arxiv.org/abs/2410.01545
+  - year: 2024
+    title: Structure-Preserving Operator Learning
+    authors: N. Bouziani and N. Boullé
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2410.01065
+  - year: 2025
+    title: Multiplicative Dynamic Mode Decomposition
+    authors: N. Boullé and M. Colbrook
+    venue: SIAM J. Appl. Dyn. Syst. 24(2) (2025), 1945-1968
+    arxiv: https://arxiv.org/abs/2405.05334
+  - year: 2025
+    title: Randomized Nystrom approximation of non-negative self-adjoint operators
+    authors: D. Persson, N. Boullé, and D. Kressner
+    venue: SIAM J. Math. Data Sci. 7(2) (2025), 670-698
+    arxiv: https://arxiv.org/abs/2404.00960
+  - year: 2024
+    title: LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law
+    authors: T. J.B. Liu, N. Boullé, R. Sarfati, and C. J. Earls
+    venue: EMNLP - Oral (2024)
+    arxiv: https://arxiv.org/abs/2402.00795
+  - year: 2024
+    title: Operator learning without the adjoint
+    authors: N. Boullé, D. Halikias, S. E. Otto, and A. Townsend
+    venue: J. Mach. Learn. Res. 25(364) (2024), 1-54
+    arxiv: https://arxiv.org/abs/2401.17739
+  - year: 2024
+    title: On the Convergence of Hermitian Dynamic Mode Decomposition
+    authors: N. Boullé and M. Colbrook
+    venue: Physica D 472 (2024), 134405
+    arxiv: https://arxiv.org/abs/2401.03192
+  - year: 2024
+    title: A Mathematical Guide to Operator Learning
+    authors: N. Boullé and A. Townsend
+    venue: Handbook of Numerical Analysis 25 (2024), 83-125
+    arxiv: https://arxiv.org/abs/2312.14688
+  - year: 2024
+    title: Multivariate rational approximation of functions with curves of singularities
+    authors: N. Boullé, A. Herremans, and D. Huybrechs
+    venue: SIAM J. Sci. Comput. 46(6) (2024), A3401-A3426
+    arxiv: https://arxiv.org/abs/2312.13202
+  - year: 2023
+    title: Elliptic PDE learning is provably data-efficient
+    authors: N. Boullé, D. Halikias, and A. Townsend
+    venue: PNAS 120(39) (2023), e2303904120
+    arxiv: https://arxiv.org/abs/2302.12888
+  - year: 2024
+    title: Bifurcation analysis of a two-dimensional magnetic Rayleigh-Benard problem
+    authors: F. Laakmann and N. Boullé
+    venue: Physica D 467 (2024), 134270
+    arxiv: https://arxiv.org/abs/2211.12163
+  - year: 2023
+    title: Principled interpolation of Green's functions learned from data
+    authors: H. Praveen, N. Boullé, and C. Earls
+    venue: Comput. Methods Appl. Mech. Eng. 409 (2023), 115971
+    arxiv: https://arxiv.org/abs/2211.06299
+  - year: 2023
+    title: Two-component three-dimensional atomic Bose-Einstein condensates supporting complex stable patterns
+    authors: N. Boullé, I. Newell, P. E. Farrell, and P. G. Kevrekidis
+    venue: Phys. Rev. A 107 (2023), 012813
+    arxiv: https://arxiv.org/abs/2208.05703
+  - year: 2022
+    title: Learning Green's functions associated with time-dependent partial differential equations
+    authors: N. Boullé, S. Kim, T. Shi, and A. Townsend
+    venue: J. Mach. Learn. Res. 23(218) (2022), 1-34
+    arxiv: https://arxiv.org/abs/2204.12789
+  - year: 2023
+    title: Optimization of Hopf Bifurcation Points
+    authors: N. Boullé, P. E. Farrell, and M. E. Rognes
+    venue: SIAM J. Sci. Comput. 45(3) (2023), B390-B411
+    arxiv: https://arxiv.org/abs/2201.11684
+  - year: 2022
+    title: Control of bifurcation structures using shape optimization
+    authors: N. Boullé, P. E. Farrell, and A. Paganini
+    venue: SIAM J. Sci. Comput. 44(1) (2022), A57-A76
+    arxiv: https://arxiv.org/abs/2105.14884
+  - year: 2022
+    title: A generalization of the randomized singular value decomposition
+    authors: N. Boullé and A. Townsend
+    venue: ICLR (2022)
+    arxiv: https://arxiv.org/abs/2105.13052
+  - year: 2022
+    title: Data-driven discovery of Green's functions with human-understandable deep learning
+    authors: N. Boullé, C. J. Earls, and A. Townsend
+    venue: Sci. Rep. 12 (2022), 4824
+    arxiv: https://arxiv.org/abs/2105.00266
+  - year: 2021
+    title: An optimal complexity spectral method for Navier-Stokes simulations in the ball
+    authors: N. Boullé, J. Slomka, and A. Townsend
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2103.16638
+  - year: 2022
+    title: Bifurcation analysis of two-dimensional Rayleigh-Benard convection using deflation
+    authors: N. Boullé, V. Dallas, and P. E. Farrell
+    venue: Phys. Rev. E 105(5) (2022), 055106
+    arxiv: https://arxiv.org/abs/2102.10576
+  - year: 2021
+    title: Accurate numerical simulation of electrodiffusion and osmotic water movement in brain tissue
+    authors: A. J. Ellingsrud, N. Boullé, P. E. Farrell, and M. E. Rognes
+    venue: Math. Med. Biol. 38(4) (2021), 516-551
+    arxiv: https://arxiv.org/abs/2102.02539
+  - year: 2023
+    title: Learning elliptic partial differential equations with randomized linear algebra
+    authors: N. Boullé and A. Townsend
+    venue: Found. Comput. Math. 23 (2023), 709-739
+    arxiv: https://arxiv.org/abs/2102.00491
+  - year: 2020
+    title: Deflation-based identification of nonlinear excitations of the three-dimensional Gross-Pitaevskii equation
+    authors: N. Boullé, E. G. Charalampidis, P. E. Farrell, and P. G. Kevrekidis
+    venue: Phys. Rev. A 102(5) (2020), 053307
+    arxiv: https://arxiv.org/abs/2004.10446
+  - year: 2020
+    title: Rational neural networks
+    authors: N. Boullé, Y. Nakatsukasa, and A. Townsend
+    venue: NeurIPS 33 (2020)
+    arxiv: https://arxiv.org/abs/2004.01902
+  - year: 2020
+    title: Bifurcation analysis of stationary solutions of two-dimensional coupled Gross-Pitaevskii equations using deflated continuation
+    authors: E. G. Charalampidis, N. Boullé, P. E. Farrell, and P. G. Kevrekidis
+    venue: Commun. Nonlinear Sci. Numer. Simulat. 87 (2020), 105255
+    arxiv: https://arxiv.org/abs/1912.00023
+  - year: 2020
+    title: Computing with functions in the ball
+    authors: N. Boullé and A. Townsend
+    venue: SIAM J. Sci. Comput. 42(4) (2020), C169-C191
+    arxiv: https://arxiv.org/abs/1911.00114
+  - year: 2020
+    title: Classification of chaotic time series with deep learning
+    authors: N. Boullé, V. Dallas, Y. Nakatsukasa, and D. Samaddar
+    venue: Physica D 403 (2020), 132261
+    arxiv: https://arxiv.org/abs/1908.06848
+
+thesis:
+  year: 2022
+  title: Data-driven discovery of Green's functions
+  venue: PhD Thesis (University of Oxford, 2022)
+  url: https://nBoullé.github.io/files/thesis.pdf
