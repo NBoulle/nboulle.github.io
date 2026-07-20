@@ -25,6 +25,7 @@ list:
     title: A zero-one law for one-shot system identification
     authors: N. Boullé, D. Halikias, S.E. Otto, and A. Townsend
     venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2607.15832
   - year: 2026
     title: Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning
     authors: K. Gray, F. Brown, N. Boullé, and M.J. Colbrook
