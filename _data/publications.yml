@@ -22,13 +22,18 @@ featured:
 
 list:
   - year: 2026
+    title: A Graph Signal Processing Perspective on Numerical Sequence Representations in LLM In-Context Learning
+    authors: J. Bao, Z. Qi, T. J.B. Liu, G. Arora, R. Sarfati, N. Boullé, and C. J. Earls
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2608.03015
+  - year: 2026
     title: A zero-one law for one-shot system identification
-    authors: N. Boullé, D. Halikias, S.E. Otto, and A. Townsend
+    authors: N. Boullé, D. Halikias, S. E. Otto, and A. Townsend
     venue: arXiv preprint
     arxiv: https://arxiv.org/abs/2607.15832
   - year: 2026
     title: Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning
-    authors: K. Gray, F. Brown, N. Boullé, and M.J. Colbrook
+    authors: K. Gray, F. Brown, N. Boullé, and M. J. Colbrook
     venue: arXiv preprint
     arxiv: https://arxiv.org/abs/2606.05131
   - year: 2026
@@ -42,7 +47,7 @@ list:
     venue: arXiv preprint
   - year: 2026
     title: "Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds"
-    authors: G. Conradie, N. Boullé, J-C Loiseau, S. L. Brunton, and M. J. Colbrook
+    authors: G. Conradie, N. Boullé, J.-C. Loiseau, S. L. Brunton, and M. J. Colbrook
     venue: arXiv preprint
     arxiv: https://arxiv.org/abs/2603.15091
   - year: 2026
