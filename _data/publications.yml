@@ -68,7 +68,7 @@ list:
   - year: 2026
     title: "Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics"
     authors: J. Bao, N. Boullé, T. J.B. Liu, R. Sarfati, and C. J. Earls
-    venue: "Mach. Learn.: Sci. Technol. (2026)"
+    venue: "Mach. Learn.: Sci. Technol. 7 (2026), 055001"
     arxiv: https://arxiv.org/abs/2509.06322
   - year: 2025
     title: Convergent Methods for Koopman Operators on Reproducing Kernel Hilbert Spaces
