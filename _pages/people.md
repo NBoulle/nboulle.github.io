@@ -106,7 +106,7 @@ author_profile: true
   <article class="person-card">
     <img src="https://nboulle.github.io/images/gray.jpeg" alt="Kelan Gray">
     <div class="person-body">
-      <h3 class="person-name">Kelan Gray</h3>
+      <h3 class="person-name"><a href="https://kelangray.github.io/">Kelan Gray</h3>
       <p class="person-meta">Topic: Koopman operators.</p>
       <p class="person-meta">Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>.</p>
     </div>
