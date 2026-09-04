@@ -22,6 +22,11 @@ featured:
 
 list:
   - year: 2026
+    title: "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors"
+    authors: T. J.B. Liu, J. Bao, Y. Liu, G. Arora, N. Boullé, R. Sarfati, and C. J. Earls
+    venue: arXiv preprint
+    arxiv: https://arxiv.org/abs/2609.02959
+  - year: 2026
     title: Conformal Uncertainty Quantification Guarantees for Neural Operators
     authors: T. Stent and N. Boullé
     venue: arXiv preprint
