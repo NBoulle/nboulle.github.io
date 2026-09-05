@@ -53,7 +53,7 @@ author_profile: true
 .publication-card-header {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: flex-start;
   gap: 0.75rem;
   margin-bottom: 0.55rem;
 }
@@ -62,6 +62,15 @@ author_profile: true
   font-weight: 700;
   color: #56697a;
   font-size: 0.92rem;
+}
+
+.publication-card-number {
+  font-size: 0.78rem;
+  line-height: 1.3;
+  color: #70829a;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin-left: auto;
 }
 
 .publication-card-venue {
@@ -100,12 +109,19 @@ author_profile: true
 
 .pub-entry {
   display: grid;
-  grid-template-columns: 76px minmax(0, 1fr);
-  gap: 1rem;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.55rem;
   border: 1px solid #e5eaf0;
   border-radius: 8px;
   padding: 0.75rem 0.9rem;
   background: #fff;
+}
+
+.pub-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.75rem;
 }
 
 .pub-year {
@@ -113,7 +129,21 @@ author_profile: true
   color: #56697a;
   font-size: 0.95rem;
   line-height: 1.4;
-  padding-top: 0.1rem;
+}
+
+.pub-number {
+  font-weight: 700;
+  font-size: 0.72rem;
+  color: #70829a;
+  letter-spacing: 0.01em;
+  margin-left: auto;
+}
+
+.pub-arxiv {
+  font-size: 0.72rem;
+  color: #70829a;
+  font-weight: 700;
+  letter-spacing: 0.01em;
 }
 
 .pub-title {
@@ -138,6 +168,12 @@ author_profile: true
   line-height: 1.45;
 }
 
+.pub-arxiv {
+  margin: 0.25rem 0 0;
+  color: #3f5162;
+  line-height: 1.45;
+}
+
 @media (max-width: 900px) {
   .publication-grid {
     grid-template-columns: 1fr;
@@ -146,12 +182,11 @@ author_profile: true
 
 @media (max-width: 640px) {
   .pub-entry {
-    grid-template-columns: 1fr;
     gap: 0.35rem;
   }
 
-  .pub-year {
-    padding-top: 0;
+  .pub-header {
+    flex-wrap: wrap;
   }
 }
 </style>
@@ -184,12 +219,13 @@ author_profile: true
 <section class="publications-list-section">
   <h2>List of Publications</h2>
   <div class="publication-list-rendered">
-    {% assign years_desc = site.data.publications.list | map: "year" | uniq | sort | reverse %}
-    {% for year in years_desc %}
-      {% for pub in site.data.publications.list %}
-        {% if pub.year == year %}
+    {% assign total_pubs = site.data.publications.list | size %}
+    {% for pub in site.data.publications.list | sort: "year" | reverse %}
     <article class="pub-entry">
-      <div class="pub-year">{{ pub.year }}</div>
+      <div class="pub-header">
+        <span class="pub-year">{{ pub.year }}</span>
+        <span class="pub-number">{{ total_pubs | minus: forloop.index0 }}</span>
+      </div>
       <div>
         <p class="pub-title">
           {% if pub.arxiv %}
@@ -199,11 +235,13 @@ author_profile: true
           {% endif %}
         </p>
         <p class="pub-authors">{{ pub.authors }}</p>
+        {% if pub.venue %}
         <p class="pub-venue">{{ pub.venue }}</p>
+        {% elsif pub.arxiv %}
+        <p class="pub-venue">arXiv:{{ pub.arxiv | split: "/" | last }}</p>
+        {% endif %}
       </div>
     </article>
-        {% endif %}
-      {% endfor %}
     {% endfor %}
   </div>
 </section>
