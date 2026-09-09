@@ -104,11 +104,25 @@ author_profile: true
   </article>
 
   <article class="person-card">
+    <div class="person-body">
+      <h3 class="person-name">Hannah Dawes</h3>
+      <p class="person-meta">Co-supervised with <a href="https://www.ma.imperial.ac.uk/~solver/">Sheehan Olver</a>.</p>
+    </div>
+  </article>
+
+  <article class="person-card">
     <img src="https://nboulle.github.io/images/gray.jpeg" alt="Kelan Gray">
     <div class="person-body">
       <h3 class="person-name"><a href="https://kelangray.github.io/">Kelan Gray</a></h3>
       <p class="person-meta">Topic: Koopman operators.</p>
       <p class="person-meta">Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a>.</p>
+    </div>
+  </article>
+
+  <article class="person-card">
+    <div class="person-body">
+      <h3 class="person-name">Henri Klintebäck</h3>
+      <p class="person-meta">Co-supervised with <a href="https://www.ma.imperial.ac.uk/~solver/">Sheehan Olver</a>.</p>
     </div>
   </article>
 
@@ -129,6 +143,14 @@ author_profile: true
       <p class="person-meta">Co-supervised with <a href="https://akorba.github.io/">Anna Korba</a>.</p>
     </div>
   </article>
+
+  <article class="person-card">
+    <div class="person-body">
+      <h3 class="person-name">Yifu Zhang</h3>
+      <p class="person-meta">Topic: Operator learning.</p>
+      <p class="person-meta">Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a> and <a href="https://profiles.imperial.ac.uk/g.pavliotis">Greg Pavliotis</a>.</p>
+    </div>
+  </article>
   </div>
 </section>
 
@@ -141,7 +163,7 @@ author_profile: true
     <div class="person-body">
       <h3 class="person-name"><a href="https://www.damtp.cam.ac.uk/person/cr661">Christina Runkel</a></h3>
       <p class="person-meta">Thesis: Continuous representations in machine learning.</p>
-      <p class="person-meta">Co-supervised with <a href="https://www.damtp.cam.ac.uk/person/cbs31">Carola Schönlieb</a>.</p>
+      <p class="person-meta">Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a> and <a href="https://profiles.imperial.ac.uk/g.pavliotis">Greg Pavliotis</a> .</p>
     </div>
   </article>
   </div>
