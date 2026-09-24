@@ -54,7 +54,7 @@ list:
   - year: 2026
     title: "Gibbs Gradient Descent: A Langevin Approach to Optimization"
     authors: O. Zekri, A. Korba, and N. Boullé
-    venue: arXiv preprint
+    venue: NeurIPS (2026)
   - year: 2026
     title: "Trustworthy Koopman Operator Learning: Invariance Diagnostics and Error Bounds"
     authors: G. Conradie, N. Boullé, J.-C. Loiseau, S. L. Brunton, and M. J. Colbrook
@@ -68,7 +68,7 @@ list:
   - year: 2026
     title: "Jacobian Scopes: token-level causal attributions in LLMs"
     authors: T. J.B. Liu, B. Zadeoglu, R. Sarfati, N. Boullé, and C. J. Earls
-    venue: arXiv preprint
+    venue: NeurIPS (2026)
     arxiv: https://arxiv.org/abs/2601.16407
   - year: 2026
     title: "Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics"
