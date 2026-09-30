@@ -22,6 +22,10 @@ featured:
 
 list:
   - year: 2026
+    title: Structured Parallelism for Diffusion Language Models
+    authors: O. Zekri, N. Boullé, and A. Korba
+    venue: submitted
+  - year: 2026
     title: "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors"
     authors: T. J.B. Liu, J. Bao, Y. Liu, G. Arora, N. Boullé, R. Sarfati, and C. J. Earls
     venue: arXiv preprint
