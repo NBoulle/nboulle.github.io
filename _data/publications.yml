@@ -35,10 +35,10 @@ list:
     authors: T. Stent and N. Boullé
     venue: arXiv preprint
     arxiv: https://arxiv.org/abs/2608.28515
-  - year: 2026
+  - year: 2027
     title: A Graph Signal Processing Perspective on Numerical Sequence Representations in LLM In-Context Learning
     authors: J. Bao, Z. Qi, T. J.B. Liu, G. Arora, R. Sarfati, N. Boullé, and C. J. Earls
-    venue: arXiv preprint
+    venue: EACL (2027)
     arxiv: https://arxiv.org/abs/2608.03015
   - year: 2026
     title: A zero-one law for one-shot system identification
