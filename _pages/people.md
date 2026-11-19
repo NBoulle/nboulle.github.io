@@ -146,7 +146,7 @@ author_profile: true
 
   <article class="person-card">
     <div class="person-body">
-      <h3 class="person-name">Yifu Zhang</h3>
+      <h3 class="person-name"><a href="https://yifuzhang314.github.io/yifu-zhang/">Yifu Zhang</a></h3>
       <p class="person-meta">Topic: Operator learning.</p>
       <p class="person-meta">Co-supervised with <a href="https://www.damtp.cam.ac.uk/user/mjc249/home.html">Matthew Colbrook</a> and <a href="https://profiles.imperial.ac.uk/g.pavliotis">Greg Pavliotis</a>.</p>
     </div>
