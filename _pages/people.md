@@ -129,7 +129,7 @@ author_profile: true
   <article class="person-card">
     <img src="https://nboulle.github.io/images/ross.jpeg" alt="Jack Ross">
     <div class="person-body">
-      <h3 class="person-name">Jack Ross</h3>
+      <h3 class="person-name"><a href="https://www.linkedin.com/in/jack-ross-540665248/">Jack Ross</a></h3>
       <p class="person-meta">Topic: Machine learning and dynamical systems.</p>
       <p class="person-meta">Co-supervised with <a href="https://www.ma.imperial.ac.uk/~mrasmuss/">Martin Rasmussen</a>.</p>
     </div>
