@@ -17,10 +17,15 @@ featured:
   - year: 2026
     title: A zero-one law for one-shot system identification
     authors: N. Boullé, D. Halikias, S. E. Otto, and A. Townsend
-    venue: arXiv preprint
+    venue: PNAS
     arxiv: https://arxiv.org/abs/2607.15832
 
 list:
+  - year: 2026
+    title: One-shot identification of analytic systems
+    authors: N. Boullé, D. Halikias, S. E. Otto, and A. Townsend
+    venue: submitted
+    arxiv: https://arxiv.org/abs/2611.30470
   - year: 2026
     title: Structured Parallelism for Diffusion Language Models
     authors: O. Zekri, N. Boullé, and A. Korba
@@ -43,7 +48,7 @@ list:
   - year: 2026
     title: A zero-one law for one-shot system identification
     authors: N. Boullé, D. Halikias, S. E. Otto, and A. Townsend
-    venue: arXiv preprint
+    venue: PNAS 123(47) (2026), e2624491123
     arxiv: https://arxiv.org/abs/2607.15832
   - year: 2026
     title: Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning
